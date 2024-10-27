@@ -44,7 +44,7 @@ const Players = ({ handleIsActive, isActive, handleSelectedPlayer, selectedPlaye
         </div>
       </div>
        {/* player container */}
-        <div className={`${isActive.cart?"grid grid-cols-3 gap-5 m-3":"w-full"}`}>
+        <div className={`${isActive.cart?"grid grid-cols-1 lg:grid-cols-3 gap-5 m-3":"w-full"}`}>
         
           {isActive.cart ? player.map(pl =>
             <Player key={pl.id} pl={pl}
