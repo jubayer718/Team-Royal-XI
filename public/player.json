@@ -1,0 +1,127 @@
+
+ [{
+  "id": "1",
+  "player_name": "Shakib Al Hasan",
+  "country": "Bangladesh",
+  "position": "All-rounder",
+  "hand": "Left-hand batsman",
+  "bowling_type": "Left-arm orthodox spin",
+  "price": 1250000,
+  "image_url": "https://i.ibb.co.com/RbqV7GL/shakib.jpg"
+},
+    {
+      "id":"2",
+      "player_name": "Ben Stokes",
+      "country": "England",
+      "position": "All-rounder",
+      "batting_hand": "Left-hand batsman",
+      "bowling_type": "Right-arm medium-fast",
+      "hand": "Left-hand batsman",
+      "price": 1500000,
+      "image_url": "https://i.ibb.co.com/cyL54dL/stokes.png"
+    },
+    {
+      "id":"3",
+      "player_name": "Pat Cummins",
+      "country": "Australia",
+      "position": "Bowler",
+      "batting_hand": "Right-hand batsman",
+      "bowling_type": "Right-arm fast",
+      "price": 1800000,
+       "hand": "N/A",
+      "image_url": "https://i.ibb.co.com/HV5fzvf/cummins.png"
+    },
+    {
+      "id":"4",
+      "player_name": "David Warner",
+      "country": "Australia",
+      "position": "Batsman",
+      "hand": "Left-hand batsman",
+      "bowling_type": "N/A",
+      "price": 1100000,
+      "image_url": "https://i.ibb.co.com/ys8yTzY/warner.png"
+    },
+    {
+      "id":"5",
+      "player_name": "Mahmudullah Riyad",
+      "country": "Bangladesh",
+      "position": "All-rounder",
+      "batting_hand": "Right-hand batsman",
+      "bowling_type": "Right-arm off break",
+       "hand": "Right-hand batsman",
+      "price": 1250000,
+      "image_url": "https://i.ibb.co.com/nnzjXrF/mahmudullah-1200.jpg"
+    },
+  
+  
+  
+    {
+      "id":"6",
+      "player_name": "Babar Azam",
+      "country": "Pakistan",
+      "position": "Batsman",
+      "hand": "Right-hand batsman",
+      "bowling_type": "N/A",
+      "price": 1400000,
+      "image_url": "https://i.ibb.co.com/2d5xFLp/babar-azam-20211122130706.jpg"
+    },
+  {
+  "id": "7",
+  "player_name": "Joe Root",
+  "country": "England",
+  "position": "Batsman",
+  "hand": "Right-hand batsman",
+  "bowling_type": "Right-arm off-break",
+  "price": 1350000,
+  "image_url": "https://i.ibb.co.com/QJgTXN8/joe-root-13-10-2023.png"
+},
+{
+  "id": "8",
+  "player_name": "Quinton de Kock",
+  "country": "South Africa",
+  "position": "Wicketkeeper Batsman",
+  "hand": "Left-hand batsman",
+  "bowling_type": "N/A",
+  "price": 1150000,
+  "image_url": "https://i.ibb.co.com/25X4Bcb/F9-M7s3r-Ws-AALSFh.jpg"
+},
+{
+  "id": "9",
+  "player_name": "Rashid Khan",
+  "country": "Afghanistan",
+  "position": "Bowler",
+  "hand": "Right-hand batsman",
+  "bowling_type": "Right-arm leg break googly",
+  "price": 1100000,
+  "image_url": "https://i.ibb.co.com/vvsFXz6/rashid-khan.webp"
+},{
+  "id": "10",
+  "player_name": "Mujeeb Ur Rahman",
+  "country": "Afghanistan",
+  "position": "Bowler",
+  "hand": "Right-hand batsman",
+  "bowling_type": "Right-arm off spin",
+  "price": 1150000,
+  "image_url": "https://i.ibb.co.com/smYSZfJ/mujibur.jpg"
+},{
+  "id": "11",
+  "player_name": "Trent Boult",
+  "country": "New Zealand",
+  "position": "Bowler",
+  "hand": "Right-hand batsman",
+  "bowling_type": "Left-arm fast-medium",
+  "price": 1200000,
+  "image_url": "https://i.ibb.co.com/jfvpjdH/Trent-Boult-of-New-Zealand-celebrates.jpg"
+},{
+  "id": "12",
+  "player_name": "Tamim Iqbal",
+  "country": "Bangladesh",
+  "position": "Batsman",
+  "hand": "Left-hand batsman",
+  "bowling_type": "N/A",
+  "price": 1100000,
+  "image_url": "https://i.ibb.co.com/b7wtw2M/Tammim.jpg"
+}
+
+  ]
+
